@@ -113,10 +113,22 @@ Calculation
 
 
 Frequency Deviation Practical = 
+case1:
+Δf=fmax-fc=3436.4-2780=656.4
+case2:
+Δf=fc-fmin=2780-1972=808
 
-Modulation Index Practical	= β=
+Modulation Index Practical	
+case1:
 
-Modulation Index Theoretical	=β
+β=Δf/fm=656.4/278=2.36
+
+case2:
+
+β=Δf/fm=808/278=2.9
+
+Modulation Index Theoretical	
+β=2.9
 
 
 
